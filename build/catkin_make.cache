@@ -1,0 +1,2 @@
+openni_camera/openni_camera:openni_camera/openni_description:openni_camera/openni_launch
+-DCATKIN_DEVEL_PREFIX=/home/tom/Dev/kinect_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tom/Dev/kinect_ws/install -G Unix Makefiles
